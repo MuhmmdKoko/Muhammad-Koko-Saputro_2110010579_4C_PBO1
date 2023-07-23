@@ -10,7 +10,7 @@ public class kodeBanJalan {
             Scanner scanner = new Scanner(System.in);
 
             //array
-            bacaKodeBan[] ban = new bacaKodeBan[1];
+            bacaKodeBan[] ban = new bacaKodeBan[3];
 
             //perulangan
             for(int i=0; i<ban.length; i++){
