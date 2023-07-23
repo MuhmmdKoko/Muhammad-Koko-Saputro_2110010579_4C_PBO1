@@ -79,7 +79,7 @@ public String getKodeBan() {
 }
 ```
 
-7. **Encapsulation** adalah konsep menyembunyikan data dengan membuat atribut menjadi private dan hanya bisa diakses melalui method. Pada kode ini, atribut `nama` dan `npm` dienkapsulasi dan hanya bisa diakses melalui method getter dan setter.
+7. **Encapsulation** adalah konsep menyembunyikan data dengan membuat atribut menjadi private dan hanya bisa diakses melalui method. Pada kode ini, atribut `merekban` dan `kodeBan` dienkapsulasi dan hanya bisa diakses melalui method getter dan setter.
 
 ```bash
 private String merekBan;
